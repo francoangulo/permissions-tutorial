@@ -5383,6 +5383,16 @@ react-is@^19.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.1.0.tgz#805bce321546b7e14c084989c77022351bbdd11b"
   integrity sha512-Oe56aUPnkHyyDxxkvqtd7KkdQP5uIUfHxd5XTb3wE9d/kRnZLmKbDB0GWk919tdQ+mxxPtG6EAs6RMT6i1qtHg==
 
+react-native-permissions@^5.4.1:
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/react-native-permissions/-/react-native-permissions-5.4.1.tgz#b147e5901f2f5d847b367f2ba6e60378ebcee90c"
+  integrity sha512-MTou5DVn8IADr7OQjYePJzcxrVNEeODBvSpB8XOt5qBI9ui3HduSBn/KTNZECH/Ph2Y20OnZBMqe6Wp9IryrgQ==
+
+react-native-vision-camera@^4.6.4:
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/react-native-vision-camera/-/react-native-vision-camera-4.6.4.tgz#f1c51dda2c5d558ea0ec235e2401abf5efa46875"
+  integrity sha512-d998uTHsGJ9bTlsClgT37RK1sK7ZQekv5y6ylynds3vmdK6YbFQJUoi2cvMrFN4dp9qvSlCjEfwekjMIz3guQA==
+
 react-native@0.79.2:
   version "0.79.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.79.2.tgz#f1a53099701c1736d09e441eb79f97cfc90dd202"
